@@ -58,7 +58,7 @@ O sistema foi projetado com uma arquitetura moderna cliente-servidor:
 
 1. Clone o repositório
 ```bash
-git clone https://github.com/lairaamarques/role-app.git
+git clone https://github.com/MessiAsn/role-app.git
 cd role-app
 ```
 
